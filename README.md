@@ -1,2 +1,2 @@
 # prime-numbers
-A programme that shows the prime numbers from 1 to user's selecting number 
+Program that outputs prime numbers up to the number entered by the user.
