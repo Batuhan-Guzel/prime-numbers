@@ -14,11 +14,11 @@ public class fibonacccii {
 
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the number of term:");
-        int select = input.nextInt();
+        int number = input.nextInt();
 
 
 
-        System.out.println(fib(select));
+        System.out.println(fib(number));
 
     }
 
